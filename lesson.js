@@ -10,6 +10,10 @@ fruits.splice(2, 0, "банан", "топпенамбур");
 
 for(x=0;x<fruits.length; x++) 
 { 
-if(fruits[x]=="Слива")
+    console.log(fruits[x]);
+    console.log(x+1);
+/*
+    if(fruits[x]=="банан")
  console.log (fruits[x]);
+ */
 }
