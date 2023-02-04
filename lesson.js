@@ -12,8 +12,8 @@ for(x=0;x<fruits.length; x++)
 { 
     console.log(fruits[x]);
     console.log(x+1);
-/*
-    if(fruits[x]=="банан")
+
+    if(fruits[x]==="банан")
  console.log (fruits[x]);
- */
+
 }
